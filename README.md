@@ -4,7 +4,7 @@ Version of [scrapfetch](https://github.com/amodi444/scrapfetch) that was rewritt
 ### Dependencies
 To build scrapfetch-asm, you need [NASM](https://nasm.us/)
 
-### Command for installing NASM for Arch Linux:
+### Command for installing NASM on Arch Linux:
 ```
 pacman -S nasm
 ```
